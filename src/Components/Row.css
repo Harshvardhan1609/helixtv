@@ -17,6 +17,7 @@
     max-height: 100px;
     margin-right: 10px;
     transition: transform  450ms;
+    border-radius: 0.8rem;
 }
 
 .row__poster:hover{
@@ -25,6 +26,7 @@
 
 .row__posterLarge{
     max-height: 250px;
+    border-radius: 1.2rem;
 }
 .row__posterLarge:hover{
     transform: scale(1.09);
